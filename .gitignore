@@ -10,6 +10,7 @@
 
 # production
 /build
+/prebuilt-lesson-codes
 
 # misc
 .DS_Store
