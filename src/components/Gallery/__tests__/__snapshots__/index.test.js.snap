@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <section>
+    <h1
+      data-testid="h1tag"
+    >
+      Portraits
+    </h1>
+    <p>
+      Portraits of people in my life
+    </p>
+    <div>
+      <div
+        class="flex-row"
+      />
+    </div>
+  </section>
+</DocumentFragment>
+`;
